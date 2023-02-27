@@ -1,0 +1,22 @@
+.section-1 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.section-1__text-wrapper_right {
+    display: inline-block;
+    max-width: 485px;
+    vertical-align: top;
+}
+
+.section-1__text-wrapper_left {
+    display: inline-block;
+    max-width: 480px;
+    vertical-align: top;
+    margin-right: 35px;
+}
+
+.section-1__img {
+    margin-right: 30px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,8 @@
+.welcome {
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+.welcome__text:not(:last-child) {
+    margin-bottom: 30px;
+}

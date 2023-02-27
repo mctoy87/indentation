@@ -1,0 +1,51 @@
+.page {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    padding-top: 60px;
+}
+
+.page__title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 120%;
+}
+
+.header__title {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.section__text:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+/* Добавляем отступ и блочную модель для картинок*/
+.image:not(:last-child) {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.image_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.box_grey {
+    padding: 25px 45px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+
+.box-grey__title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    margin-bottom: 20px;
+}

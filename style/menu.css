@@ -1,0 +1,22 @@
+.menu {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.container-menu {
+    max-width: 1200px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+.menu__list {
+    padding-left: 20px;
+    color: #02535F;
+    text-decoration: underline;
+    margin: 0;
+    
+}
+
+.menu__item:not(:last-child) {
+    margin-bottom: 10px;
+}
