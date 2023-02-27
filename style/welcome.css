@@ -1,6 +1,9 @@
 .welcome {
-    padding-top: 30px;
     padding-bottom: 25px;
+}
+
+.page__title {
+    margin-bottom: 30px;
 }
 
 .welcome__text:not(:last-child) {

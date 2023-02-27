@@ -2,6 +2,10 @@
     padding-top: 25px;
 }
 
+.summary__list {
+    margin-bottom: 30px;
+}
+
 .summary__item {
     position: relative;
     left: 18px;
@@ -9,7 +13,7 @@
 }
 
 .summary__item:last-child {
-    margin-bottom: 30px;
+    margin-bottom: 0;
 }
 
 .summary__item::before {

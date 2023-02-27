@@ -12,9 +12,13 @@
 .menu__list {
     padding-left: 20px;
     color: #02535F;
-    text-decoration: underline;
     margin: 0;
     
+}
+
+.menu__link {
+    display: inline-block;
+    border-bottom: 1px solid #02535F;
 }
 
 .menu__item:not(:last-child) {
