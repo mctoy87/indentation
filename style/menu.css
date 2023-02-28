@@ -1,12 +1,19 @@
 .menu {
-    padding-top: 25px;
+    padding-top: 40px;
     padding-bottom: 25px;
 }
 
-.container-menu {
-    max-width: 1200px;
-    padding: 0 30px;
-    margin: 0 auto;
+.menu-box {
+    padding: 25px 45px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+
+.menu__title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    margin-bottom: 20px;
 }
 
 .menu__list {

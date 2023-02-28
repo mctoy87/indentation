@@ -1,11 +1,8 @@
-.welcome {
-    padding-bottom: 25px;
-}
-
 .page__title {
     margin-bottom: 30px;
+
 }
 
-.welcome__text:not(:last-child) {
+.page__text:not(:last-of-type) {
     margin-bottom: 30px;
 }

@@ -2,6 +2,19 @@
     padding-top: 25px;
 }
 
+.summary__box {
+    padding: 25px 45px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+
+.summary__title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    margin-bottom: 20px;
+}
+
 .summary__list {
     margin-bottom: 30px;
 }
@@ -21,5 +34,3 @@
     position: absolute;
     left:     -18px;
 }
-
-

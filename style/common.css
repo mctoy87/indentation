@@ -36,16 +36,3 @@
     margin-right: auto;
 
 }
-
-.box_grey {
-    padding: 25px 45px;
-    background-color: #F1F1F1;
-    border-radius: 10px;
-}
-
-.box-grey__title {
-    font-weight: 700;
-    font-size: 44px;
-    line-height: 120%;
-    margin-bottom: 20px;
-}
